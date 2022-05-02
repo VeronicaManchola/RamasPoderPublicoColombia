@@ -1,0 +1,120 @@
+[
+  { "key": "rama", "name": "Rama legislativa" },
+  { "key": "congreso", "parent": "rama", "name": "Congreso" },
+  { "key": "senado", "parent": "congreso", "name": "Senado de la República" },
+  { "key": "secretaria", "parent": "senado", "name": "Secretaría General" },
+  {
+    "key": "subsecretaria",
+    "parent": "secretaria",
+    "name": "Subsecretaría\nGeneral"
+  },
+  { "key": "leyes", "parent": "secretaria", "name": "Sección de\nLeyes" },
+  {
+    "key": "relatoria",
+    "parent": "secretaria",
+    "name": "Sección de\nRelatoría"
+  },
+  {
+    "key": "grabacion",
+    "parent": "secretaria",
+    "name": "Sección de\nGrabación"
+  },
+  {
+    "key": "gaceta",
+    "parent": "secretaria",
+    "name": "Unidad Gaceta\ndel Congreso"
+  },
+  { "key": "comisiones", "parent": "secretaria", "name": "Comisiones" },
+  {
+    "key": "constitucionales",
+    "parent": "comisiones",
+    "name": "Comisiones Constitucionales\nPermanentes",
+    "definition": "<p>Son las creadas por mandato constitucional y son comunes a ambas Corporaciones. Su función es la de dar trámite al primer debate de los Proyectos de Ley, de acuerdo a los asuntos de su competencia (Artículo 2 Ley 3 de 1992). En total son catorce Comisiones Constitucionales Permanentes, siete en cada una de las Corporaciones (Artículo 2 Ley 3 de 1992). Los temas correspondientes y el número de miembros en cada una de las Comisiones Constitucionales Permanentes son los siguientes:</p>"
+  },
+  {
+    "key": "primera",
+    "parent": "constitucionales",
+    "name": "Comisión Primera",
+    "definition": "<p>Compuesta por veintidos (22) miembros en el Senado y treinta y ocho (38) en la Cámara de Representantes, conocerá de: reforma constitucional; leyes estatutarias; organización territorial; reglamentos de los organismos de control; normas generales sobre contratación administrativa; notariado y registro; estructura y organización de la administración nacional central; de los derechos, las garantías y los deberes; rama legislativa; estrategias y políticas para la paz; propiedad intelectual; variación de la residencia de los altos poderes nacionales; asuntos étnicos.</p>"
+  },
+  {
+    "key": "segunda",
+    "parent": "constitucionales",
+    "name": "Comisión Segunda",
+    "definition": "<p>Compuesta por trece (13) miembros en el Senado y diecinueve (19) miembros en la Cámara de Representantes.</p><p>Conoce de: Política internacional; defensa nacional y fuerza pública; tratados públicos; carrera diplomática y consular; comercio exterior e integración económica; política portuaria; relaciones parlamentarias, internacionales y supranacionales, asuntos diplomáticos no reservados constitucionalmente al Gobierno; fronteras; nacionalidad; extranjeros; migración; honores y monumentos públicos; servicio militar; zonas francas y de libre comercio; contratación internacional. (Artículo 3 de la Ley 3 de 1992).</p>"
+  },
+  {
+    "key": "tercera",
+    "parent": "constitucionales",
+    "name": "Comisión Tercera",
+    "definition": "<p>Compuesta por quince (15) miembros en el Senado y veintinueve (29) miembros en la Cámara de Representantes.</p><p>Conoce de: Hacienda y Crédito Público; impuesto y contribuciones; exenciones tributarias; régimen monetario; leyes sobre el Banco de la República; sistema de banca central; leyes sobre monopolios; autorización de empréstitos; mercado de valores; regulación económica; Planeación Nacional; régimen de cambios, actividad financiera, bursátil, aseguradora y de captación de ahorro. (Artículo 3 de la Ley 3 de 1992).</p>"
+  },
+  {
+    "key": "cuarta",
+    "parent": "constitucionales",
+    "name": "Comisión Cuarta",
+    "definition": "<p>Compuesta por quince (15) miembros en el Senado y veintisiete (27) miembros en la Cámara de Representantes.</p><p>Conoce de: Leyes orgánicas de presupuesto; sistema de control fiscal financiero; enajenación y destinación de bienes nacionales; regulación del régimen de propiedad industrial, patentes y marcas; creación, supresión, reforma u organización de establecimientos públicos nacionales; control de calidad y precios y contratación administrativa. (Artículo 3 de la Ley 3 de 1992).</p>"
+  },
+  {
+    "key": "quinta",
+    "parent": "constitucionales",
+    "name": "Comisión Quinta",
+    "definition": "<p>Compuesta por trece (13) miembros en el Senado y diecinueve (19) miembros en la Cámara de Representantes.</p><p>Conoce de: Régimen agropecuario; ecología; medio ambiente y recursos naturales; adjudicación y recuperación de tierras; recursos ictiológicos y asuntos del mar; minas y energía; corporaciones autónomas regionales. (Artículo 3 de la Ley 3 de 1992).</p>"
+  },
+  {
+    "key": "sexta",
+    "parent": "constitucionales",
+    "name": "Comisión Sexta",
+    "definition": "<p>Compuesta por trece (13) miembros en el Senado y dieciocho (18) miembros en la Cámara de Representantes.</p><p>Conoce de: Comunicaciones; tarifas; calamidades públicas; funciones públicas y prestación de los servicios públicos; medios de comunicación; investigación científica y tecnológica; espectro electromagnético; órbita geoestacionaria; sistemas digitales de comunicación e informática; espacio aéreo; obras públicas y transporte; turismo y desarrollo turístico; educación y cultura. (Artículo 3 de la Ley 3 de 1992)</p>"
+  },
+  {
+    "key": "septima",
+    "parent": "constitucionales",
+    "name": "Comisión Septima",
+    "definition": "<p>Compuesta por catorce (14) miembros en el Senado y diecinueve (19) en la Cámara de Representantes.</p><p>Conoce de: Estatuto del servidor público y trabajador particular; régimen salarial y prestacional del servidor público; organizaciones sindicales; sociedades de auxilio mutuo; seguridad social; cajas de previsión social; fondos de prestaciones; carrera administrativa; servicio civil; recreación; deportes; salud, organizaciones comunitarias; vivienda; economía solidaria; asuntos de la mujer y de la familia. (Artículo 3 de la Ley 3 de 1992).</p>"
+  },
+  {
+    "key": "legales",
+    "parent": "comisiones",
+    "name": "Comisiones Legales",
+    "definition": "<p>Las Comisiones Legales son aquellas que a diferencia de las Constitucionales, son creadas por Ley; encargadas de asuntos específicos distintos a los de competencia de las Comisiones Constitucionales Permanentes. (Artículo 55 de la Ley 5 de 1992 adicionado por la Ley 1434 de 2011).</p><p><b>Creadas por Proyectos de Ley. No tienen cronogama definido.</b></p>"
+  },
+  {
+    "key": "etica",
+    "parent": "legales",
+    "name": "Comisión de Ética\ny Estatuto del Congresista",
+    "definition": "<p>De conformidad con el artículo 59 de la Ley 5° de 1992, Reglamento Interno del Congreso, la Comisión conocerá del conflicto de interés y de las violaciones al régimen de incompatibilidades e inhabilidades de los Congresistas; según lo previsto en la Ley 1828 de 2017 Código de Ética y Disciplinario del Congresista, ejerce el poder ético disciplinario en relación con los miembros del Congreso por la conducta indecorosa, irregular o inmoral en que puedan incurrir en ejercicio de su función o con ocasión de la misma, competencia que antes de la expedición de esta ley ejercía la Procuraduría General de la Nación.</p><p>Le corresponde emitir dictamen respecto de la suspensión del ejercicio de la función de Congresista, cuando ésta es ordenada mediante decisión judicial en firme. (Artículo 277 Ley 5ª de 1992).</p><p>El artículo 294 del Reglamento, indica que en los casos en que un Senador sea recusado a causa de un impedimento que aquél no le haya comunicado oportunamente a la Cámara respectiva, la Comisión de Ética dará a conocer su conclusión mediante resolución motivada de obligatorio cumplimiento.</p><p>La Comisión de Ética tiene funciones de CONTROL POLÍTICO, puesto que está facultada para realizar invitaciones, citaciones, audiencias públicas o privadas a funcionarios del orden nacional, territorial o personas cuya gestión esté orientada a la lucha contra la corrupción, promoción de valores éticos en el servicio público, definición de políticas y programas que se realicen en este sentido (Literal b., artículo 67 Ley 1828 de 2017).</p><p>También puede gestionar convenios entre el Legislativo y organizaciones nacionales o internacionales, empresas públicas y privadas, para la realización de actividades dirigidas a promocionar la transparencia y lucha contra la corrupción; así mismo, está autorizada para realizar foros, seminarios, diplomados, eventos académicos de capacitación y de difusión.</p><p><b>Mesa directiva</b></p><ul><li>Presidente: H.S. Laureano Augusto Acuña Díaz</li><li>Vicepresidente: H.S. Carlos Felipe Mejía Mejía</li><li>Secretaria: Nubia Mercedes Soler Rodriguez</li></ul><p><b>Integrantes:</b></p><ul><li>Laureano Augusto Acuña Díaz (Conservador)</li><li>Wilson Neber Arias Castillo (Polo Democrático Alternativo)</li><li>Ana María Castañeda Gómez (Cambio Radical)</li><li>Andrés Cristo Bustos (Liberal Colombiano)</li><li>Yezid Rafael García Abello (Alianza Verde)</li><li>Carlos Abraham Jiménez López (Cambio Radical)</li><li>Carlos Felipe Mejía Mejía (Centro Democrático)</li><li>Miguel Ángel Pinto Hernández (Liberal Colombiano)</li><li>Santiago Valencia González (Centro Democrático)</li>"
+  },
+  {
+    "key": "derechos",
+    "parent": "legales",
+    "name": "Comisión de\nDerechos Humanos\ny Audiencias",
+    "definition": "<p>La defensa de los derechos humanos, cuyas garantías sean vulneradas o desconocidas. En cumplimiento de esta función informará a las Plenarias de cada una de las Cámaras sobre los resultados alcanzados.</p><p>La vigilancia y control sobre toda autoridad encargada de velar por el respeto de los derechos humanos, así como la promoción de las acciones pertinentes para que, en caso de incumplimiento, se apliquen las sanciones penales y disciplinarias correspondientes.</p><p>La celebración de audiencias especiales en las que los ciudadanos y representantes de gremios, colegios de profesionales, asociaciones cívicas y sociales, puedan exponer temas de interés para la sociedad y el conocimiento del Congreso. En las audiencias, que serán públicas, se escuchará a los distintos sectores de la opinión nacional sobre aspectos de la legislación existente y sobre los proyectos que cursan en las Cámaras Legislativas, a fin de transmitir las iniciativas de carácter popular.</p><p>Tramitar las observaciones que por escrito hagan llegar los ciudadanos con respecto a un proyecto de ley o de acto legislativo.</p><p>Las organizaciones no gubernamentales podrán asistir a las sesiones de esta Comisión cuando se ocupe del tema de los derechos humanos, pudiendo hacer uso de la palabra para referirse a los aspectos que interesen a la opinión del Congreso. Para el cumplimiento de estos fines, la Comisión podrá darse su propio reglamento de operatividad.</p><p><b>Mesa Directiva</b></p><ul><li>Presidente: H.S. Ivan Darío Agudelo Zapata</li><li>Vicepresidente: H.S. Sandra Ramírez</li><li>Coordinadora: Diana Novoa Montoya</li></ul>"},
+  {
+    "key": "acreditacion",
+    "parent": "legales",
+    "name": "Comisión de Acreditación\nDocumental",
+    "definition": "<p><b>Integración y funciones.</b></p><p>Previa a la sesión inaugural de las Cámaras Legislativas, la autoridad electoral enviará a cada una de ellas la lista de los Congresistas electos, quienes deberán identificarse ante el Presidente de la Junta Preparatoria. Con posterioridad se hará ante el Presidente de la correspondiente Cámara.</p><p>En cada una de las Cámaras se dispondrá la integración de la Comisión de Acreditación Documental a razón de cinco (5) miembros por cada corporación, y por el período constitucional. Los documentos que acrediten las calidades exigidas de quienes aspiran a ocupar cargos de elección del Congreso o de las Cámaras Legislativas, serán revisados por la Comisión dentro de los cinco (5) días siguientes a su presentación. El informe respectivo será evaluado por la plenaria de la corporación, antes de proceder a la elección del caso.</p><p>Objeciones. Cuando el respectivo Presidente objetare los documentos por no hallarlos en la forma legal, el Congresista a quien esa credencial se refiera no tendrá voz ni voto en las deliberaciones hasta tanto se haga claridad en ello. En tratándose de objeciones a otros documentos presentados, éstos se remitirán a la autoridad postulante para que proceda a su corrección en el término de los ocho (8) días siguientes, o para que disponga el envío de acreditación de quien ha de reemplazar.</p><p><b>MESA DIRECTIVA</b></p><ul><li>PRESIDENTE: Ángel Custodio Cabrera Báez (Partido de la U)</li><li>VICEPRESIDENTE: Antonio del Cristo Guerra de la Espriella (Cambio Radical)</li></ul>"},
+  { "key": "instruccion", "parent": "legales", "name": "Instrucción" },
+  {
+    "key": "seguimiento",
+    "parent": "legales",
+    "name": "Comisión de Seguimiento\na la Ley de Victimas"
+  },
+  {
+    "key": "inteligencia",
+    "parent": "legales",
+    "name": "Comisión Legal de Seguimiento\na las Actividades de Inteligencia\ny Contrainteligencia"
+  },
+  {
+    "key": "especiales",
+    "parent": "comisiones",
+    "name": "Comisiones Especiales"
+  },
+  {
+    "key": "accidentales",
+    "parent": "comisiones",
+    "name": "Comisiones Accidentales"
+  },
+  { "key": "camara", "parent": "congreso", "name": "Cámara de Representantes" }
+]
