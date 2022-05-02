@@ -2,13 +2,15 @@
   {
     "key": "rama",
     "name": "Rama legislativa",
-    "definition": "<nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Legislativa</li></ol></nav>"
+    "breadcrumb": "<div class='card mb-3'><nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Legislativa</li></ol></nav></div>",
+    "definition": "<div class='card mb-3'><p>A la Rama Legislativa le corresponde formular las leyes, ejercer control sobre el Gobierno y reformar la Constitución. Está representada por una corporación pública colegiada de elección popular denominada Congreso de la República, el cual está integrado por el Senado de la República y la Cámara de Representantes, constituyendo así un sistema bicameral; es decir, una cámara alta representada por el Senado y una cámara baja representada por la Cámara de Representantes.</p></div>",
+    "foundation": "<div class='card mb-3'><h5>Soporte Jurídico</h5><p>Ley 5 de 1992</p></div>"
   },
   {
     "key": "congreso",
     "parent": "rama",
     "name": "Congreso",
-    "definition": "<p>INCOMPATIBILIDADES (\"Todos los actos que no pueden realizar o ejecutar los congresistas durante el período de ejercicio de la función\".)</p>"
+    "definition": "<div class='card mb-3'><p>INCOMPATIBILIDADES (\"Todos los actos que no pueden realizar o ejecutar los congresistas durante el período de ejercicio de la función\".)</p><p>Las incompatibilidades de los congresistas tendrán vigencia durante el período constitucional respectivo. En caso de renuncia, se mantendrán durante el año siguiente a su aceptación, si el lapso que faltare para el vencimiento del período fuere superior. Quien fuere llamado a ocupar el cargo, quedará sometido al mismo régimen de inhabilidades e incompatibilidades a partir de su posesión.</p></div><div class='card mb-3'><p>CONFLICTO DE INTERESES</p><p>Los congresistas deberán poner en conocimiento de la respectiva cámara las situaciones de carácter moral o económico que los inhiban para participar en el trámite de los asuntos sometidos a su consideración. La ley determinará lo relacionado con los conflictos de intereses y las recusaciones.</p></div>"
   },
   { "key": "senado", "parent": "congreso", "name": "Senado de la República" },
   {

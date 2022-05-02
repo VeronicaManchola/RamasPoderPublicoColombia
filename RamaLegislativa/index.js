@@ -40,7 +40,7 @@ const buildSections = (data) => {
             const offCanvasTitle = document.getElementById('offcanvas-title');
             const offCanvasBody = document.getElementById('offcanvas-body');
             offCanvasTitle.innerText = node.data.name;
-            offCanvasBody.innerHTML = node.data.definition;
+            offCanvasBody.innerHTML = `<div>${node.data.breadcrumb ?? ""}${node.data.definition ?? ""}${node.data.foundation ?? ""}</div>`;
             bsOffcanvas.show();
             break;
         }
