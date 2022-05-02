@@ -1,0 +1,15 @@
+[
+  { "key": "rama", "name": "Rama legislativa", "definition": "<nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Legislativa</li></ol></nav>" },
+  {
+    "key": "congreso",
+    "parent": "rama",
+    "name": "Congreso",
+    "definition": "<p>INCOMPATIBILIDADES (\"Todos los actos que no pueden realizar o ejecutar los congresistas durante el período de ejercicio de la función\".)</p>"
+  },
+  { "key": "senado", "parent": "congreso", "name": "Senado de la República" },
+  {
+    "key": "camara",
+    "parent": "congreso",
+    "name": "Cámara de Representantes"
+  }
+]
