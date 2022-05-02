@@ -36,3 +36,33 @@
 .text-shadow {
   text-shadow: -2px 1px 10px rgb(0 0 0);
 }
+
+.individual-card {
+  border-radius: 0.75rem;
+  margin: 1rem;
+  box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 40%);
+}
+
+.breadcrumb {
+  margin-bottom: 0;
+}
+
+.offcanvas-start {
+  width: 45vw;
+}
+
+.offcanvas-header.card-header {
+  background-color: #0066af;
+  color: #FFFFFF;
+}
+
+.offcanvas-header .btn-close {
+  background: transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFF'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
+  opacity: 0.9;
+}
+
+.offcanvas-body .card {
+  border-radius: 0.75rem;
+  padding: 1rem 0.5rem;
+  box-shadow: 3px 4px 5px 0px rgb(0 0 0 / 40%);
+}

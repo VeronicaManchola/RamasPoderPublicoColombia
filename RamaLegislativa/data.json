@@ -1,5 +1,9 @@
 [
-  { "key": "rama", "name": "Rama legislativa", "definition": "<nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Legislativa</li></ol></nav>" },
+  {
+    "key": "rama",
+    "name": "Rama legislativa",
+    "definition": "<nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Legislativa</li></ol></nav>"
+  },
   {
     "key": "congreso",
     "parent": "rama",
