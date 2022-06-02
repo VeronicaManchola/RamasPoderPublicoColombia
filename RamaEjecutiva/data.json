@@ -1,0 +1,24 @@
+[
+    {
+      "parent": "",
+      "key": "ejecutiva",
+      "name": "Rama Ejecutiva",
+      "breadcrumb": "<div class='card mb-3'><nav aria-label='breadcrumb'><ol class='breadcrumb'><li class='breadcrumb-item'><a href='../'>Ramas del Poder</a></li><li class='breadcrumb-item active' aria-current='page'>Rama Ejecutiva</li></ol></nav></div>",
+      "definition": "<div class='card mb-3'><p>Hace referencia directa al gobierno nacional, sus conceptos fundamentales son: <ul> <li>Delegación</li> <li>Descentralización</li> <li>Desconcentración</li> </ul> </p> <p>Es la encargada del desarrollo de las políticas públicas.</p> <p>Está dividida en dos, el sector central y el sector descentralizado , el descentralizado esta dividida en territorio y por servicios)</p></div>",
+      "foundation": ""
+    },
+    {
+      "parent": "ejecutiva",
+      "key": "central",
+      "name": "Sector Central",
+      "definition": "",
+      "foundation": ""
+    },
+    {
+      "parent": "ejecutiva",
+      "key": "descentralizado",
+      "name": "Sector Descentralizado",
+      "definition": "",
+      "foundation": ""
+    }
+  ]
