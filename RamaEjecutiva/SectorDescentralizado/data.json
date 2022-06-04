@@ -106,6 +106,13 @@
     "foundation": ""
   },
   {
+    "parent": "unidades",
+    "key": "sin_juridica",
+    "name": "Unidades adm especiales sin personeria jurídica",
+    "definition": "<div class='card mb-3'><ul><li>Unidad Administrativa Especial de Restitución de Tierras. (UAERT)</li><li>Agencia del Inspector General de Tributos, rentas y Contribuciones Parafiscales. (ITRC)</li><li>Unidad de Proyección Normativa y Estudios de Regulación Financiera. (URF)</li><li>Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios.</li><li>Comisión de Regulación de Energía, Gas y Combustibles . (CREG)</li><li>Parques Nacionales Naturales de Colombia</li><li>Autoridad Nacional de Licencias Ambientales. (ANLA)</li></ul></div>",
+    "foundation": ""
+  },
+  {
     "parent": "servicios",
     "key": "industriales",
     "name": "Empresas Industriales y Comerciales del Estado",

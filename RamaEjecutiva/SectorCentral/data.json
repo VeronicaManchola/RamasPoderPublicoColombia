@@ -167,12 +167,5 @@
     "name": "Unidades adm especiales con personeria jurídica",
     "definition": "<div class='card mb-3'><ul><li>Comisión de regulación de comisiones</li><li>Agencia Nacional de Contratación pública Colombia Compra Eficiente.</li><li>Agencia Presidencial para la Superación de la Pobreza Extrema</li><li>Dirección Nacional de Bomberos</li><li>Dirección Nacional de Derechos de Autor</li><li>Unidad Administrativa Especial Contaduría General de la Nación</li><li>Unidad Administrativa Especial de Aeronáutica Civil</li><li>Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas</li><li>Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales DIAN</li><li>Unidad Administrativa Especial Junta Central de Contadores</li><li>Unidad Administrativa Especial Migración Colombia</li><li>Unidad Administrativa Especial Para la Atención y Reparación Integral a las Victimas</li><li>Unidad de Planeación de Infraestructura</li><li>Unidad Nacional de Protección</li><li>Unidad Nacional para la Gestión del Riesgo de Desastres.</li></ul></div>",
     "foundation": ""
-  },
-  {
-    "parent": "especiales",
-    "key": "sin_juridica",
-    "name": "Unidades adm especiales sin personeria jurídica",
-    "definition": "<div class='card mb-3'><ul><li>Unidad Administrativa Especial de Restitución de Tierras. (UAERT)</li><li>Agencia del Inspector General de Tributos, rentas y Contribuciones Parafiscales. (ITRC)</li><li>Unidad de Proyección Normativa y Estudios de Regulación Financiera. (URF)</li><li>Unidad de Planificación de Tierras Rurales, Adecuación de Tierras y Usos Agropecuarios.</li><li>Comisión de Regulación de Energía, Gas y Combustibles . (CREG)</li><li>Parques Nacionales Naturales de Colombia</li><li>Autoridad Nacional de Licencias Ambientales. (ANLA)</li></ul></div>",
-    "foundation": ""
   }
 ]
